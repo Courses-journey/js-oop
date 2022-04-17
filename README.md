@@ -1,10 +1,10 @@
-# JS OOP
+<div align="center">
+<img src="https://elzero.org/wp-content/themes/elzero/imgs/logo.png" alt='source' width="200"/>
 
-Course Link
+# Elzero Web School
 
-- [JS Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
-
----
+[JS OOP Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
+</div>
 
 # 01
 
